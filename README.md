@@ -1,6 +1,7 @@
 # nginx
 
 Proxy Server = Virtualbox Host
+
 Proxy Server IP = 140.92.26.62
 
 How to use this configuraiton
